@@ -23,7 +23,6 @@ Enable users to monitor their savings progress.
 ✅ Progress Bar
 ✅ Pie Chart Visualization
 ✅ Transaction History
-✅ Dark Mode
 ✅ Local Storage (Data remains after refresh)
 ⭐ How is this project different?
 
@@ -34,7 +33,6 @@ Beginner-friendly interface.
 Real-time balance calculation.
 Savings goal with a visual progress bar.
 Interactive pie chart for quick financial insights.
-Dark Mode for better user experience.
 No login required.
 Works directly in a web browser without installation.
 Stores data locally, allowing users to continue even after refreshing the page.
