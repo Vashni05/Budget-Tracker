@@ -67,8 +67,7 @@ Managing local storage
 Saving and retrieving data correctly after page refresh.
 Responsive design
 Making the website look good on both desktop and mobile devices.
-Dark Mode implementation
-Switching themes while maintaining readability and consistent styling.
+
 🛠 Technologies Used
 HTML5
 CSS3
